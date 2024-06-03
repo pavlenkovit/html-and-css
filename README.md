@@ -1,11 +1,11 @@
-# Курс по HTML&CSS
+# РљСѓСЂСЃ РїРѕ HTML&CSS
 
 ## Flexbox
 
-Основной пример: https://codepen.io/vital-pavlenko/pen/qBGEoov
+РћСЃРЅРѕРІРЅРѕР№ РїСЂРёРјРµСЂ: https://codepen.io/vital-pavlenko/pen/qBGEoov
 
-### Лайфхаки
+### Р›Р°Р№С„С…Р°РєРё
 
-1. Центрирование элемента: https://codepen.io/vital-pavlenko/pen/PovNOKd
-2. Сетка на флексах: https://codepen.io/vital-pavlenko/pen/qBGZVVj
-3. Растягивание элемента: https://codepen.io/vital-pavlenko/pen/abrNVEp
+1. Р¦РµРЅС‚СЂРёСЂРѕРІР°РЅРёРµ СЌР»РµРјРµРЅС‚Р°: https://codepen.io/vital-pavlenko/pen/PovNOKd
+2. РЎРµС‚РєР° РЅР° С„Р»РµРєСЃР°С…: https://codepen.io/vital-pavlenko/pen/qBGZVVj
+3. Р Р°СЃС‚СЏРіРёРІР°РЅРёРµ СЌР»РµРјРµРЅС‚Р°: https://codepen.io/vital-pavlenko/pen/abrNVEp
