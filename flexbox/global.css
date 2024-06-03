@@ -1,0 +1,21 @@
+body {
+  font-family: Consolas, monospace;
+  font-size: 24px;
+  margin: 24px;
+}
+
+.container {
+  box-sizing: content-box;
+  border: solid 4px #fff;
+  padding: 12px;
+}
+
+.item {
+  box-sizing: border-box;
+  background-color: #f64e47;
+  color: #fff;
+  padding: 24px 12px;
+  text-align: center;
+  border-radius: 8px;
+  border: solid #fff 2px;
+}

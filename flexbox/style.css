@@ -1,23 +1,6 @@
-body {
-    font-family: Consolas, monospace;
-    font-size: 24px;
-    background-color: #000105;
-    border: solid 4px #fff;
-    margin: 24px;
-    padding: 12px;
-}
-
 .container {
+  display: flex;
 }
 
 .item {
-    width: 150px;
-    height: 150px;
-    box-sizing: border-box;
-    background-color: #f64e47;
-    color: #fff;
-    padding: 16px;
-    text-align: center;
-    border-radius: 8px;
-    border: solid #fff 2px;
 }

@@ -1,0 +1,31 @@
+* {
+  font-family: Consolas, monospace;
+  font-size: 24px;
+}
+
+body {
+  margin: 24px;
+}
+
+.container {
+  display: flex;
+}
+
+input {
+  border: none;
+  outline: none;
+  padding: 16px;
+  border-top-left-radius: 12px;
+  border-bottom-left-radius: 12px;
+  flex-grow: 1;
+  width: 1%;
+}
+
+button {
+  border: none;
+  background-color: #f64e47;
+  color: #fff;
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+  padding: 16px 24px;
+}

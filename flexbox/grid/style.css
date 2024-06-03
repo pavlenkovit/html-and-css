@@ -1,0 +1,32 @@
+body {
+  font-family: Consolas, monospace;
+  font-size: 24px;
+  margin: 24px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -4px;
+}
+
+.col {
+  padding: 4px;
+  box-sizing: border-box;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: 33.3%;
+  max-width: 33.3%;
+}
+
+.item-content {
+  background-color: #fff;
+  padding: 24px 12px;
+}
+
+@media screen and (max-width: 720px) {
+  .col {
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+}
